@@ -1,0 +1,12 @@
+.sectionTtDivider {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: fit-content;
+    height: 22px;
+
+}
+
+.w98 {
+    width: 98%;
+}

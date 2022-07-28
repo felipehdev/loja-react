@@ -1,0 +1,8 @@
+.productTt {
+  height: 16px;
+  width: fit-content;
+  text-align: left;
+  font: normal normal normal 14px/16px "Inter", sans-serif;
+  color: #888888;
+  opacity: 1;
+}

@@ -1,0 +1,30 @@
+/* 201px é o tamanho da menor div no tema */
+/* é recomendavel usar width 100% para visualizaçoes mobile */
+
+.div{
+    display: flex;
+    flex-direction: column; 
+    height: fit-content;
+    min-width: 201px;
+       
+}
+
+.w520 {
+    width: 520px;
+}
+
+.w340 {
+    width: 340px;
+}
+.w930 {
+    width: 930px;
+}
+
+.w100p {
+    width: 100%;
+}
+
+
+.fR {
+    flex-direction: row;
+}

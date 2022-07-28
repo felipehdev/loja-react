@@ -1,0 +1,18 @@
+.divFather {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 931px;
+}
+.divL {
+  width: 520px;
+}
+
+.divR {
+  width: 340px;
+}
+
+.inputDiv {
+  display: flex;
+  flex-direction: column;
+}

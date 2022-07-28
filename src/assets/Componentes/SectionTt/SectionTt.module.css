@@ -1,0 +1,12 @@
+.sectionTt {
+  height: 22px;
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  font: normal normal bold 18px/16px "Inter", sans-serif;
+  color: #888888;
+  opacity: 1;
+  margin: 0 auto;
+}

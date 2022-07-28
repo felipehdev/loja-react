@@ -1,0 +1,17 @@
+.sectionThree {
+    max-width: 931px;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.inputsDiv {
+    display: flex;
+    width: 720px;
+    align-items: center;
+    width: 720px;
+    
+}

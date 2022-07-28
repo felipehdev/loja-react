@@ -1,0 +1,17 @@
+.headerBg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 399px;
+    background-color: aquamarine;    
+}
+
+.w769 {
+    display: flex;
+    justify-content: space-around;
+    width: 769px;    
+}
+
+/*completar */
